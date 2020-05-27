@@ -1,0 +1,19 @@
+# ||||| Inclusión ||||||
+
+# Ignorar Todo
+*
+
+# ||||| Exclusión ||||||
+!/**/
+
+# Excluir Archivos que tienen extensión
+!*.*
+
+
+# ||||| Inclusión ||||||
+## Incluir Archivos con extension ".out"
+*.out
+*.ini
+*.o
+*.exe
+*.dat
